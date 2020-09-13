@@ -1,7 +1,6 @@
 ### Hi there 👋
 ***This is Sravani Kondapalli. I am fascinated about Machine Learning. I have a basic experience in NLP and deep Learning. I also have a basic understanding of R, power Bi and Tableau. I am eager to learn further more about Machine learning.*** 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Machine Learning
 - 🌱 I’m currently learning Text Mining and Neural Networks
